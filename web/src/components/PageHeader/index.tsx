@@ -7,6 +7,8 @@ import './style.css';
 
 interface PageHeaderProps {
     title: string;
+    //Ponto de interrogação indica que o propriedade não pe obrigatória
+    description?: string;
 }
 
 const PageHeader: React.FC<PageHeaderProps> = (props) => {
@@ -21,6 +23,10 @@ const PageHeader: React.FC<PageHeaderProps> = (props) => {
 
             <div className="header-content">
                 <strong>{props.title}</strong>
+                {/* Caso exista um props.description então ele será exibido.
+                - Com o operador AND a segunda ação só será executada caso a 
+                primeira seja verdadeira. */} 
+                {props.description && <p>{props.description}</p>}
                 {props.children}
             </div>
         </header>
