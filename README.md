@@ -10,7 +10,7 @@
 O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. A aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e os alunos a possibilidade de buscar as aulas cadastradas. 
 Essa aplicação foi realizada durante a Next Level Week #2, projeto da [Rocketseat](https://rocketseat.com.br/).
 
-# :rocket: Tecnologias
+## :rocket: Tecnologias
 
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
