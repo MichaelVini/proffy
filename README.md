@@ -24,7 +24,7 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da [Rockets
    <img src="https://user-images.githubusercontent.com/60121384/90839483-00d23b80-e32e-11ea-8717-85fafe506c37.gif" width="80%" height="80%" />
 </div>
 
-## :iphone: Mobile Version
+## :iphone: Versão Mobile
 <div align="center">
   <img src="https://user-images.githubusercontent.com/60121384/90838132-691f1e00-e32a-11ea-853b-422371d2a109.png" width="40%" height="40%" />
   <img src="https://user-images.githubusercontent.com/60121384/90838400-3164a600-e32b-11ea-8635-0dfcfd7ca415.jpg" width="40%" height="40%" />
