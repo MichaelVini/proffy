@@ -13,7 +13,8 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da [Rockets
 ## :rocket: Tecnologias
 
 * [Typescript](https://www.typescriptlang.org/)      
-* [React](https://reactjs.org/)      
+* [React](https://reactjs.org/)    
+* [React Native](https://reactnative.dev/)  
 * [Expo](https://expo.io/)       
 * [Express](https://expressjs.com/)
 * [Knex](http://knexjs.org/)
